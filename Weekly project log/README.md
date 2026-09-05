@@ -7,4 +7,4 @@ This file serves as a table of contents to summarize what was done during each l
 | Weeks   | What we did                          |
 | ------- | -------------                        |
 | Week 1  | Figuring out Github and Markdown     |
-| Week 2  | ...                                  |
+| Week 2  | Learn ESP32, interview stakeholder   |
