@@ -20,6 +20,7 @@ I am uploading the code to the ESP32 using the PlatformIO IDE extension in Visua
 9. Notice that the terminal is outputting garbage text and define the monitor speed in platformio.ini to be identical to the baud rate.
 10. Re-upload the code, notice that the terminal is reading the custom message properly.
 11. Take a video of the LED blinking and the terminal displaying the proper output.
+12. Upload the video to the repo under the name "Lab2_ESPBlink.mp4"
 
 ## Time Reporting
 
