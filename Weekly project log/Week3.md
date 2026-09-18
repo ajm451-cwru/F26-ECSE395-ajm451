@@ -17,3 +17,11 @@ Again, our team met in KSL, this time to finish the assignment and submit to Can
 During this meeting, we fleshed out our personas by describing their occupations and the problems they face in their occupations. We worked together during this process to make sure that the stories we were constructing were grounded in Skye's real problems and that they represented diverse perspectives.
 
 All of us took a general look over the nearly finished document while making edit suggestions and discussing with the group to ensure each change was appropriate and agreed upon. After this process, we successfully submitted the assignment to Canvas.
+
+## Functional & Technical Specs - Sep. 12
+
+Our team met in a study room in the Village at 115 at 1:00PM. Details are in the Minutes folder.
+
+During this meeting, we ideated functional and technical specifications for our project together. For this process, we used our Affinity Clustering and interview notes as guidelines for determining the minimum standards our product needs to meet.
+
+Additionally, we referenced industry standards, such as the Bluetooth standard and IEC, for enumerating our technical specs.
