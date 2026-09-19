@@ -27,3 +27,9 @@ Additionally, I finished drafting the email to Skye, reviewed it with the team, 
 ## Receive & Reply to Email from Skye - Sep. 17
 
 We received a reply from Skye where she let us know that she was available to meet at one of our scheduled times. I set up a Zoom meeting and sent the link and passcode to her, along with all other team members.
+
+## Begin Discussing Brainstorming Ideas - Sep. 18
+
+We met briefly in KSL to discuss our individual ideas with each other. Minutes are attached in the Minutes folder.
+
+We got a good start on synthesizing our ideas together. We plan to meet for more time on Sunday, Sep 20, to discuss further.
