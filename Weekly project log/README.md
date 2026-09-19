@@ -8,4 +8,5 @@ This file serves as a table of contents to summarize what was accomplished each 
 | ------- | -------------                        |
 | Week 1  | Figuring out Github and Markdown     |
 | Week 2  | Learn ESP32, interview stakeholder   |
-| Week 3  | Complete Project Background and Needs Assessment, [insert lab goals] |
+| Week 3  | Complete Project Background and Needs Assessment, learn how to use sensors with ESP32 |
+| Week 4  | Present progress to the class, begin brainstorming, use actuators with ESP32 |
