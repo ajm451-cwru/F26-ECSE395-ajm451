@@ -1,57 +1,62 @@
+
 #include <Arduino.h>
 
-// TODO: Define your pins
-// Hint: Look at your wiring. Which pins did you use?
-const int MOTOR_B_1A = 0;
-const int MOTOR_B_1B = 0; 
+// AJM451 - define analog pins for motor control
+const int MOTOR_B_1A = A0;
+const int MOTOR_B_1B = A1; 
 
 void setup() {
-  // TODO: Initialize Serial communication
-  // Serial.begin(_____);
+  // ajm451 - set baud rate
+  Serial.begin(115200);
 
-  // TODO: Set your motor pins as OUTPUTs
-  // pinMode(_____, _____);
-  // pinMode(_____, _____); 
+  // ajm451 - set motor pins as outputs
+  pinMode(MOTOR_B_1A, OUTPUT);
+  pinMode(MOTOR_B_1B, OUTPUT); 
 
-  // Serial.println("_____");
+  // ajm451 - print to register that setup is done
+  Serial.println("Setup done :)");
 }
 
 void loop() {
-  // --- SECTION 1: Clokwise (5s) ---
-  // Serial.println("_____");
+  // --- SECTION 1: Clockwise (5s) ---
+  Serial.println("Rotate clockwise for 5 seconds");
   
-  // TODO: Write HIGH to one pin and LOW to the other
-  // digitalWrite(_____, _____);
-  // digitalWrite(_____, _____);
+  // ajm451 - set one pin high so that the motor rotates clockwise
+  digitalWrite(MOTOR_B_1A, HIGH);
+  digitalWrite(MOTOR_B_1B, LOW);
   
-  // delay(_____);
+  // ajm451 - wait for 5 seconds
+  delay(5000);
 
   // --- SECTION 2: Stop (2s) ---
-  // Serial.println("_____");
+  Serial.println("Pause for 2 seconds");
   
-  // TODO: Turn off the motor
-  // digitalWrite(_____, _____);
-  // digitalWrite(_____, _____);
+  // ajm451 - set pins low so motor stops
+  digitalWrite(MOTOR_B_1A, LOW);
+  digitalWrite(MOTOR_B_1B, LOW);
 
-  // delay(_____);
+  // ajm451 - wait for 2 seconds
+  delay(2000);
 
   // --- SECTION 3: Counterclockwise (5s) ---
-  // Serial.println("_____");
+  Serial.println("Rotate counterclockwise for 5 seconds");
   
-  // TODO: Write HIGH to one pin and LOW to the other
-  // digitalWrite(_____, _____);
-  // digitalWrite(_____, _____);
+  // ajm451 - set the other pin high now, so the motor rotates counterclockwise
+  digitalWrite(MOTOR_B_1A, LOW);
+  digitalWrite(MOTOR_B_1B, HIGH);
 
-  // delay(_____);
+  // ajm451 - wait for 5 seconds
+  delay(5000);
 
   // --- SECTION 4: Stop (2s) ---
-  // Serial.println("_____");
+  Serial.println("Pause for 2 seconds");
   
-  // TODO: Turn off the motor
-  // digitalWrite(_____, _____);
-  // digitalWrite(_____, _____);
+  // ajm451 - turn off the motor
+  digitalWrite(MOTOR_B_1A, LOW);
+  digitalWrite(MOTOR_B_1B, LOW);
 
-  // delay(_____);
+  // ajm451 - wait for 2 seconds
+  delay(2000);
 }
 
 
