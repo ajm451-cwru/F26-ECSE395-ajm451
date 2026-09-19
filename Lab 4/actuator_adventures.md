@@ -7,6 +7,9 @@ This is the third assignment working with the ESP32. I will be connecting actuat
 
 1. Set up the circuit for the TT motor following the schematic.
 
+![TT Motor circuit photo](photos/TT%20Motor%201.jpg)
+![TT Motor detail photo](photos/TT%20Motor%202.jpg)
+
 2. Set up the benchtop power supply, set the current limit to 0.15A.
 
 3. Photograph the circuit.
@@ -20,6 +23,9 @@ This is the third assignment working with the ESP32. I will be connecting actuat
 7. Create a new file named "TT Motor EC.cpp". Write code here to gradually speed up and slow down the motor continuously. Upload this code and make modifications until the motor spins as expected.
 
 8. Wire the Servo Motor circuit.
+
+![Servo circuit](photos/Servo%201.jpg)
+![Servo detail view](photos/Servo%202.jpg)
 
 9. Set the power supply as instructed.
 
