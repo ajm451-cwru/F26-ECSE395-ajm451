@@ -10,3 +10,4 @@ This file serves as a table of contents to summarize what was accomplished each 
 | Week 2  | Learn ESP32, interview stakeholder   |
 | Week 3  | Complete Project Background and Needs Assessment, learn how to use sensors with ESP32 |
 | Week 4  | Present progress to the class, begin brainstorming, use actuators with ESP32 |
+| Week 5  | Meet with Skye for concept review, select final concept, integrate actuators with sensors |
