@@ -14,3 +14,4 @@ This file serves as a table of contents to summarize what was accomplished each 
 | Week 6  | Complete Gantt Chart, begin block diagrams and plans for prototyping |
 | Week 7  | Develop Prototypes 1 & 2, Plan Verification & Validation |
 | Week 8  | Develop Prototype 2, Start Prototype 3 |
+| Week 9  | Develop Prototype 3, Prepare for Midterm Presentation |
