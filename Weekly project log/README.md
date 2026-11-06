@@ -16,3 +16,4 @@ This file serves as a table of contents to summarize what was accomplished each 
 | Week 8  | Develop Prototype 2, Start Prototype 3 |
 | Week 9  | Develop Prototype 3, Prepare for Midterm Presentation |
 | Week 10 | Present Midterm Progress, Develop MVP |
+| Week 11 | Complete MVP, Verification Testing, Begin Validation |
